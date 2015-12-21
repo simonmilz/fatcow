@@ -1,0 +1,24 @@
+{
+  "name": "fatcow",
+  "homepage": "https://github.com/simonmilz/fatcow",
+  "authors": [
+    "Simon Milz <simon@simonmilz.de>"
+  ],
+  "description": "3926 Free Farm-Fresh Web Icons",
+  "main": "flags.css",
+  "moduleType": [],
+  "keywords": [
+    "icons",
+    "css",
+    "16px"
+  ],
+  "license": "GPL2",
+  "ignore": [
+    "**/.*",
+    ".idea",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
