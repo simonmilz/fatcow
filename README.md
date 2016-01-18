@@ -1,4 +1,4 @@
-# 3926 Free "Farm-Fresh Web Icons #
+# 3926 Free "Farm-Fresh Web Icons" #
 Download hundreds of FREE, beautifully designed icons from FatCow Web Hosting! Icon set includes both 16 and 32 pixel versions of icons shown below. 
 
 ## Install ##
