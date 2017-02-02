@@ -964,6 +964,11 @@
     background: url("flags/16px/za.png") no-repeat center center
 }
 
+.flag-zh {
+    background: url("flags/16px/zh.png") no-repeat center center
+}
+
+
 .flag-zm {
     background: url("flags/16px/zm.png") no-repeat center center
 }
